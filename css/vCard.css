@@ -1,0 +1,61 @@
+.content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100px;
+  margin: auto;
+  width: 50%;
+  height: 500px;
+  background-color: white;
+  z-index: 1050;
+  border-radius: 10px;
+  border-width: 0px;
+  border-color: #FFFEC1;
+  border-style: solid;
+  box-shadow: 2px 2px 10px 1px #FFFEC1;
+}
+.content .top-left {
+  float: left;
+  width: 50%;
+  height: 400px;
+  margin-top: 30px;
+  border-style: solid;
+  border-width: 0 5px 0 0;
+  border-color: #6F4336;
+}
+.content .top-left img {
+  position: relative;
+  left: 17%;
+  top: 36%;
+  width: 70%;
+}
+.content .top-right {
+  float: right;
+  width: 50%;
+  height: 450px;
+  padding: 40px;
+  font-size: 20px;
+  line-height: 2.3;
+}
+.content .top-right .name {
+  font-size: 30px;
+  font-weight: bold;
+}
+.content .bottom {
+  position: absolute;
+  bottom: 35px;
+  width: 100%;
+  border-style: solid;
+  border-width: 15px  0 0 0;
+  border-color: #E7D9AB;
+}
+.black-bg {
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: black;
+  opacity: 0.6;
+  z-index: 1000;
+}

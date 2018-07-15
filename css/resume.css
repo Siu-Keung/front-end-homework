@@ -9,7 +9,7 @@
 }
 .first-page .top-container .avator {
   position: relative;
-  top: 80px;
+  top: 60px;
   width: 12%;
   margin: auto;
 }
@@ -20,16 +20,17 @@
 }
 .first-page .top-container .spec {
   position: relative;
-  top: 130px;
+  top: 95px;
   color: #483D8B;
   text-align: center;
 }
 .first-page .top-container .spec .name-span {
-  font-size: 25px;
+  font-size: 28px;
   font-weight: bold;
 }
 .first-page .top-container .spec .position-span {
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: bold;
 }
 .first-page .top-container .icon {
   display: inline-block;
@@ -38,7 +39,7 @@
   margin: auto;
   position: relative;
   text-align: center;
-  top: 210px;
+  top: 150px;
   font-size: 35px;
   background-color: #2b542c;
   border-style: solid;

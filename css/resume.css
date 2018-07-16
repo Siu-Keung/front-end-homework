@@ -62,6 +62,13 @@
   width: 48%;
   float: left;
 }
+.first-page .bottom-container .panel .left-content .list-group-item {
+  line-height: 2.3;
+}
+.first-page .bottom-container .panel .left-content .list-group-item:hover {
+  font-size: 16px;
+  font-weight: bold;
+}
 .first-page .bottom-container .panel .left-content p {
   font-size: 15px;
 }

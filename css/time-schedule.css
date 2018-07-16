@@ -33,6 +33,9 @@
   border-radius: 50%;
   font-size: 90%;
 }
+.content .table tbody tr:hover {
+  height: 80px;
+}
 .black-bg {
   position: fixed;
   top: 0px;

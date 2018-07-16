@@ -4,7 +4,7 @@
   background-size: 100% 100%;
 }
 .first-page .top-container {
-  height: 550px;
+  height: 530px;
   text-align: center;
 }
 .first-page .top-container .avator {
@@ -20,7 +20,7 @@
 }
 .first-page .top-container .spec {
   position: relative;
-  top: 95px;
+  top: 85px;
   color: #483D8B;
   text-align: center;
 }
@@ -39,7 +39,7 @@
   margin: auto;
   position: relative;
   text-align: center;
-  top: 150px;
+  top: 120px;
   font-size: 35px;
   background-color: #2b542c;
   border-style: solid;
